@@ -1,0 +1,23 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "description": "node-proxy mock",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtomeczek/node-proxy.git"
+  },
+  "author": "Michal Tomeczek <michal.tomeczek@sap.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtomeczek/node-proxy/issues"
+  },
+  "homepage": "https://github.com/mtomeczek/node-proxy",
+  "dependencies": {
+    "express": "^4.12.2",
+    "forever": "^0.14.1"
+  }
+}
